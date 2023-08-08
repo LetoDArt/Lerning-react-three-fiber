@@ -1,4 +1,4 @@
-# Training-react-three-fiber
+# Learning react-three-fiber
 
 This project has been created as a playground to study react three fiber library.
 
